@@ -2,11 +2,16 @@
 
 THIS IS THE ONLY AND ORIGINAL CNTLM PROJECT WRITTEN FOR ALL UNIX/POSIX SYSTEMS TO ALLOW THEM THROUGH DOMAIN/IIS WINDOWS-AUTHENTICATED PROXIES.
 IT IS STILL VERY MUCH ALIVE AND ACCEPTING PATCHES WITH FIXES OR BUG REPORTS, BUT DON'T EXPECT IMMEDIATE ACTION, SINCE THIS IS A YEARS LONG HOBBY
-PROJECT, BUT I ALSO HAVE TO PAY MORTGAGES AND EAT. :)
+PROJECT, BUT I ALSO HAVE TO PAY MORTGAGE AND EAT. :)
 
-IF ANYONE IS THANKFUL FOR THIS PROJECT, I'D WELLCOME YOUR DONATION:
-IF YOU NEED SOMETHING FIXED FAST, I'M SURE YOU WON'T MIND PAYING THE GOING RATE: 
+If anyone is thankful for the project, donations are certainly welcome and
+If you need something fixed fast, I'm sure you won't mind paying a fair rate:
+
+There's PayPal or some crypto: 
 [https://paypal.me/KubicekDavid](https://paypal.me/KubicekDavid)
+Solana: HnDuUKaNsQ3EKu1et8ZwMH9uHG6VoKdrP9xL1u6aLB4J
+BTC: bc1qpf9t7kpa546n7nw6zzq8xqevup0h6wr3dhzvl6
+Ethereum: 0x178b3569C14Ec0C1D586Dea326fAA9dA4d86Abec
 
 # Installation using packages
 
@@ -187,4 +192,4 @@ Makefiles for different compilers are supported by the ./configure script
 
 # Contact
 
-David Kubicek <dave@awk.cz>
+David Kubicek <kubicek@gmail.com>
