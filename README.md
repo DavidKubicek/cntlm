@@ -7,11 +7,16 @@ PROJECT, BUT I ALSO HAVE TO PAY MORTGAGE AND EAT. :)
 If anyone is thankful for the project, donations are certainly welcome and
 If you need something fixed fast, I'm sure you won't mind paying a fair rate:
 
-There's PayPal or some crypto:\\
+There's PayPal or some crypto:
+
 [https://paypal.me/KubicekDavid](https://paypal.me/KubicekDavid)
+
 Solana: HnDuUKaNsQ3EKu1et8ZwMH9uHG6VoKdrP9xL1u6aLB4J
+
 BTC: bc1qpf9t7kpa546n7nw6zzq8xqevup0h6wr3dhzvl6
+
 Ethereum: 0x178b3569C14Ec0C1D586Dea326fAA9dA4d86Abec
+
 
 # Installation using packages
 
